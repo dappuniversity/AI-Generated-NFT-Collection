@@ -20,7 +20,7 @@ describe("AINFTCollection", function () {
   it("Should return the new greeting once it's changed", async function () {
     
     const [user1] = await ethers.getSigners();
-    await aiNFTCollection.connect(user1).mint("https://ipfs.io/ipfs/QmeEbzNjpKEbEiN9vCbkTdsN5uWGGA6w5rRF3qPZaj2otE")
+    await aiNFTCollection.connect(user1).mint("https://ipfs.io/ipfs/QmXcahuzuu3puNwBB4aQZQajHAk1RdGc13WecjUQ4y1iVc")
 
     result = await aiNFTCollection.ownerOf(1)
     result.should.equal(user1.address)

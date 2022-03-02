@@ -21,7 +21,7 @@ async function main() {
 
   console.log("AI NFT collection is deployed to:", aiNFTCollection.address);
 
-  // await aiNFTCollection.mint("https://ipfs.io/ipfs/QmeEbzNjpKEbEiN9vCbkTdsN5uWGGA6w5rRF3qPZaj2otE")
+  // await aiNFTCollection.mint("https://ipfs.io/ipfs/QmNox24LfwhQx8nbsJ3AWHHqqf7881v2VFJZF6fojbUCMv")
 }
 
 // We recommend this pattern to be able to use async/await everywhere
