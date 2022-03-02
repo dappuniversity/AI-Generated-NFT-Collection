@@ -17,7 +17,7 @@ describe("AINFTCollection", function () {
     console.log("AI NFT collection was deployed to:", aiNFTCollection.address);
   }) 
 
-  it("Should return the new greeting once it's changed", async function () {
+  it("Should mint NFT with tokenID 1", async function () {
     
     const [user1] = await ethers.getSigners();
     await aiNFTCollection.connect(user1).mint("https://ipfs.io/ipfs/QmXcahuzuu3puNwBB4aQZQajHAk1RdGc13WecjUQ4y1iVc")
