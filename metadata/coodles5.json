@@ -1,0 +1,51 @@
+{
+    "name" : "August 5",
+    "description": "August is future multi millionaire 5",
+    "image" : "https://ipfs.io/ipfs/QmeQmLo6ct8cjuCC5APF2tppDSoZrbRgWzfg8i8eGwaTz9",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Jump",
+            "value": 5
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Speed",
+            "value": 4
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Humble",
+            "value": "True"
+        },
+        {
+            "trait_type": "Kind",
+            "value": "True"
+        }
+
+    ]
+}
