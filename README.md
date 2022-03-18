@@ -12,14 +12,14 @@ npx hardhat run --network ropsten scripts/deploy.js
 
 mint the NFTs at this endpoints 
 
-1. https://ipfs.io/ipfs/QmXcahuzuu3puNwBB4aQZQajHAk1RdGc13WecjUQ4y1iVc
-2. https://ipfs.io/ipfs/QmNox24LfwhQx8nbsJ3AWHHqqf7881v2VFJZF6fojbUCMv
-3. https://ipfs.io/ipfs/QmSVmX6csPnQU1ASerbUj7NZUQ8EJKQ63RBHvPW1tZCVoS
-4. https://ipfs.io/ipfs/Qmc8nyeeoqBwmVABHDiRMDdgxbPbGyoKda6eVHVk66FF69
-5. https://ipfs.io/ipfs/QmeL6hu5WeWRv6FEApBpEzQMfn7g93XxPBqSCx9t9kqQGw
-6. https://ipfs.io/ipfs/QmVjvMkbZ3M1JCnMVh3riwKRwhReq64qLRjEifyRXujqrm
-7. https://ipfs.io/ipfs/QmThTn6ZCLZkRzrG1VJMrpa6iNrD1F1p2QCsVaewi9Um8q
-8. https://ipfs.io/ipfs/QmV3i2U9zEHmjzD5BTbK7H61GtAyKNs6rGyhLtRA6vdKt8
-9. https://ipfs.io/ipfs/QmcHo7mZNN7hrpAN8PtMQcGwS81zkjEZyLPLvwFVo87jib
-10. https://ipfs.io/ipfs/QmRmDAB8XEQvbnWom8MMp9P5D6NMTLiztbco3CrkR8tiBU
+1. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/1.png
+2. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/2.png
+3. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/3.png
+4. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/4.png
+5. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/5.png
+6. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/6.png
+7. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/7.png
+8. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/8.png
+9. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/9.png
+10. https://ipfs.io/ipfs/QmQpFZP7p6eKTteCdKu2JQFK4e7rvsTPfoH7mjGkZTepQb/10.png
 
